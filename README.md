@@ -1,7 +1,11 @@
 # COGS109: Modeling and Data Analysis
 *UCSD Cognitive Science course : Modeling and Data Analysis*
 
-This course will be taught by [Alex Simpkins Ph.D.](mailto:a@robotics.radiantdolphinpress.com) in SS1 2023. The course web page is posted at the link below, and is the source of the most up to date syllabus/information/files, etc: 
+This course will be taught by [Alex Simpkins Ph.D.](mailto:a@robotics.radiantdolphinpress.com) in SS1 2023. 
+
+The Teaching Assistant is [Sagarika Sardesai](mailto:ssardesai@ucsd.edu), who is as of 2023 a Masters Student at UCSD. 
+
+The course web page is posted at the link below, and is the source of the most up to date syllabus/information/files, etc: 
 
 [Course web site](http://casimpkinsjr.radiantdolphinpress.com/pages/cogs109_ss1_23)
 
