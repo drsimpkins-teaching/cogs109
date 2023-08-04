@@ -36,10 +36,10 @@ The pieces are as follows:
 | Paper review | Group | Google form | Saturday 7/15 at 11:59pm |
 | [Project Proposal/Data checkpoint](https://github.com/drsimpkins-teaching/cogs109/blob/main/project/ProjectProposal_DataCP_109_groupXXX.ipynb) | Group | Jupyter notebook to github | Tues 7/25 at 11:59pm |
 | Checkpoint 2: EDA | Group | Jupyter notebook to github | Friday 7/28 at 11:59pm |
-| Final Report | Group | Jupyter notebook to github | Friday 8/4 at 11:59pm |
-| Video presentation report summary (5-10min) | Group | github (method of choice) | Friday 8/4 at 11:59pm |
-| Group review | Individual | Google form | Friday 8/4 at 11:59pm |
-| Video reviews (depending on timing, either min 3 required or all extra credit, 0.5% each for up to 6% bonus overall) | Individual | Google form | Saturday 8/5 at 11:59pm |
+| Final Report | Group | Jupyter notebook to github | Saturday 8/5 at 5pm |
+| Video presentation report summary (5-10min) | Group | github (method of choice) | Saturday 8/5 at 5pm |
+| Group review | Individual | Google form | Friday 8/5 at 5pm |
+| Video reviews (depending on timing, either min 3 required or all extra credit, 0.5% each for up to 6% bonus overall) | Individual | Google form | Sunday 8/6 at 11:59pm |
 
 ### Previous quarter examples
 
@@ -103,6 +103,32 @@ Data description requirements: it is structured (or you can make it structured),
 * Data wrangled/cleaned with commented code and description of steps
 * Data description filled in as described above
 * Some descriptive representation of the data - pre-visualization, demonstrate the data is input and processed, ready for use
+
+
+**4.[Final report](https://raw.githubusercontent.com/drsimpkins-teaching/cogs109/main/project/FinalProject-GroupXXX_109.ipynb)** **(Sat. 8/5 at 5pm)**
+
+**Requirements:**
+
+*   Fill out the project checkpoint included in github repository on the main page for the course in the project directory [(FinalProject-GroupXXX\_109.ipynb](https://raw.githubusercontent.com/drsimpkins-teaching/cogs109/main/project/FinalProject-GroupXXX_109.ipynb))
+*   Turned in to your group github repo by the deadline
+*   To the earlier checkpoints you should add your final analysis and modeling, then draw a conclusion about your question. What were your results and what was the outcome of your modeling and data analysis process? Where would you go from here to take it further? What is the next question perhaps?
+
+**4B** **.Final report video portion (Sat. 8/5 at 5pm)**
+
+**_Video instructions:_** 5-8m video introducing your project, data, results and conclusion. Can be (encouraged to be but no hard requirement) a set of slides, but you can express how is most effective for your project. It should be planned out however, so outline it first.
+
+**Requirements:**
+
+*   length ~5-8m, must be less than 10min
+*   Cover the project, question, data, methods, results, conclusion briefly
+*   Slides are useful but not required, however try to avoid jumping around your report, plan it out and outline so it's repeatable and practice a few times
+*   Share as a file, link, in your repo, on youtube, it's up to you just make sure we can access it
+*   Everone needs to have involvement, but everyone does NOT need to speak or be physically present in the video. We do not require video of your face, but should see your slides/images/report or whatever form you are presenting
+*   You have leeway to be creative, and time is limited but do your best to express it as professionally as possible
+
+**4C. Group member review (Sat. 8/5 at 5pm)**
+
+You will review each others' participation in the project. We will provide a google form, and please also include a summary in your report. This has an impact on each others' grade, and we will consider the comments when deciding the final grade of the project for individuals.
 
 **Ideas for open datasets:**
 
